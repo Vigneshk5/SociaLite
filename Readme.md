@@ -1,10 +1,13 @@
 # Socialite 
-![3d3b2c9d-3fe8-4a59-816f-bf1fb7f2d09a](https://github.com/Vigneshk5/SociaLite/assets/97999742/4cd895c0-d80a-4ca6-9421-4fd832aace62)
+
 
 
 Welcome to Socialite, a social media platform designed to connect people within your organization! With Socialite, you can foster stronger connections, share ideas, and collaborate seamlessly with colleagues.
 
 ## Screenshots
+![d68bb890-3df0-4516-a908-a4df5d0448ed](https://github.com/Vigneshk5/SociaLite/assets/97999742/7d11489e-9999-47d1-a5ae-10b3e8f2ce1b)
+![cdc6fb24-2447-4405-b97c-af047cbeffea](https://github.com/Vigneshk5/SociaLite/assets/97999742/9cef6a5d-f0f5-456f-8759-37174999f1ca)
+![9e8b3b4a-781a-4116-8aa8-fdd304676d17](https://github.com/Vigneshk5/SociaLite/assets/97999742/70ee64b4-9e8f-4adf-875b-0ca7fca12e11)
 
 
 ## Get Started
