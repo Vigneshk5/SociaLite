@@ -98,6 +98,10 @@ Welcome to Socialite, a social media platform designed to connect people within 
 7. **Access Socialite**:
    Open your web browser and navigate to `http://localhost:3000` to access the Socialite platform locally.
 
+8. **Sign Up and Enjoy!**:
+   Sign up using your organization's email address and start using Socialite to connect with your colleagues, share updates, and engage in meaningful conversations.
+
+
 ## Team
 - [Ben](https://github.com/benwithoutF)
 - [Aarya](https://github.com/aaryaashoka)
@@ -107,5 +111,3 @@ Welcome to Socialite, a social media platform designed to connect people within 
 
 
 
-9. **Sign Up and Enjoy!**:
-   Sign up using your organization's email address and start using Socialite to connect with your colleagues, share updates, and engage in meaningful conversations.
