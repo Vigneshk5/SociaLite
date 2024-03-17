@@ -1,0 +1,19 @@
+.image-upload-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  flex-direction: column;
+
+  label {
+    border: 1px solid #707070; /* Dark gray border color */
+    padding: 10px;
+    cursor: pointer;
+    font-family: system-ui;
+    color: #eee; /* Light text color */
+  }
+
+  .progress-bar {
+    padding: 20px;
+  }
+}

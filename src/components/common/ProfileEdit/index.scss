@@ -1,0 +1,83 @@
+$darkBackgroundColor: #333; /* Dark background color */
+$darkBorderColor: #555; /* Darker border color */
+$lightTextColor: #eee; /* Light text color */
+$linkedinBlue2: #0073b1; /* LinkedIn blue color */
+
+.profile-card {
+  width: 550px;
+  min-height: auto;
+  background-color: $darkBackgroundColor;
+  margin-top: 30px;
+  border: 1px solid $darkBorderColor;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+
+  .edit-btn {
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+    .close-icon {
+      color: $lightTextColor;
+      padding: 10px;
+      &:hover {
+        background-color: $darkBorderColor;
+        border-radius: 50%;
+      }
+    }
+  }
+
+  .profile-edit-inputs {
+    display: grid;
+    margin-top: 40px;
+    gap: 20px;
+
+    label {
+      font-family: system-ui;
+      margin-bottom: -15px;
+      color: $lightTextColor;
+    }
+
+    .common-input {
+      width: 300px;
+      height: 40px;
+      background-color: $darkBackgroundColor;
+      border: 1px solid $darkBorderColor;
+      color: $lightTextColor;
+      padding: 10px;
+      border-radius: 5px;
+      outline: none;
+    }
+
+    .common-textArea {
+      width: 300px;
+      background-color: $darkBackgroundColor;
+      border: 1px solid $darkBorderColor;
+      color: $lightTextColor;
+      padding: 10px;
+      border-radius: 5px;
+      outline: none;
+    }
+  }
+
+  .save-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .save-btn {
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    background-color: $linkedinBlue2;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    font-family: system-ui;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,81 @@
+.post-status-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+
+  .user-details {
+    width: 550px;
+    height: auto;
+    background-color: #333; /* Dark background color */
+    margin-top: 100px;
+    border: 1px solid #555; /* Darker border color */
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-top: -60px;
+      border: 1px solid #555; /* Darker border color */
+      padding: 1px;
+    }
+
+    .name {
+      font-weight: 600;
+      font-family: system-ui;
+      color: #eee; /* Light text color */
+    }
+
+    .headline {
+      font-family: system-ui;
+      margin-top: -15px;
+      color: #eee; /* Light text color */
+    }
+  }
+
+  .post-status {
+    width: 550px;
+    height: 120px;
+    background-color: #333; /* Dark background color */
+    margin-top: 30px;
+    border: 1px solid #555; /* Darker border color */
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .post-image {
+      width: 60px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+
+    .open-post-modal {
+      width: 80%;
+      height: 50px;
+      text-align: left;
+      color: rgba(255, 255, 255, 0.9); /* Light text color */
+      background-color: #444; /* Darker background color */
+      outline: none;
+      border: 1px solid #555; /* Darker border color */
+      border-radius: 30px;
+      margin-left: -30px;
+      cursor: pointer;
+      padding: 15px;
+      font-weight: 600;
+      font-size: 14px;
+      font-family: system-ui, sans-serif;
+    }
+
+    .open-post-modal:hover {
+      background-color: #555; /* Darker background color on hover */
+    }
+  }
+}

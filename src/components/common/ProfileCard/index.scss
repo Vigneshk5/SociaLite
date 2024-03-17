@@ -1,0 +1,85 @@
+.profile-card {
+  width: auto;
+  height: auto;
+  background-color: #333; /* Dark background color */
+  margin: 30px;
+  border-radius: 5px;
+  padding: 20px;
+  position: relative;
+  color: #eee; /* Light text color */
+
+  .profile-info {
+    display: flex;
+    justify-content: space-between;
+
+    .profile-image {
+      width: 200px;
+      height: 200px;
+      object-fit: contain;
+      border-radius: 50%;
+      border: 2px solid #555; /* Slightly lighter border color */
+      padding: 5px;
+      cursor: pointer;
+    }
+
+    .right-info {
+      margin-top: 25px;
+      margin-right: 20px;
+
+      .college,
+      .company {
+        font-family: system-ui;
+        color: rgba(255, 255, 255, 0.9); /* Light text color */
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 30px;
+      }
+
+      .company {
+        margin-top: -15px;
+      }
+    }
+  }
+
+  .website {
+    color: #61dafb !important; /* Light blue color for the link */
+  }
+
+  .skill-label {
+    font-weight: 600;
+  }
+
+  .edit-btn {
+    position: absolute;
+    right: 20px;
+
+    .edit-icon {
+      cursor: pointer;
+      padding: 10px;
+    }
+
+    .edit-icon:hover {
+      background-color: #555; /* Slightly lighter background color */
+      padding: 10px;
+      border-radius: 50%;
+    }
+  }
+
+  .userName {
+    font-family: system-ui;
+    color: rgba(255, 255, 255, 0.9); /* Light text color */
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 10px;
+  }
+
+  .heading {
+    margin-top: -25px;
+    font-family: system-ui;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.9); /* Light text color */
+    width: 320px;
+    line-height: 20px;
+  }
+}
