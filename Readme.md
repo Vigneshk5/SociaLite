@@ -1,4 +1,5 @@
 # Socialite 
+<img width="924" alt="Screenshot 2024-03-17 at 10 49 58 PM" src="https://github.com/Vigneshk5/SociaLite/assets/97999742/6fc4c654-b595-40a5-bab7-c62d1a5ed9dc">
 
 
 
@@ -8,6 +9,7 @@ Welcome to Socialite, a social media platform designed to connect people within 
 ![d68bb890-3df0-4516-a908-a4df5d0448ed](https://github.com/Vigneshk5/SociaLite/assets/97999742/7d11489e-9999-47d1-a5ae-10b3e8f2ce1b)
 ![cdc6fb24-2447-4405-b97c-af047cbeffea](https://github.com/Vigneshk5/SociaLite/assets/97999742/9cef6a5d-f0f5-456f-8759-37174999f1ca)
 ![9e8b3b4a-781a-4116-8aa8-fdd304676d17](https://github.com/Vigneshk5/SociaLite/assets/97999742/70ee64b4-9e8f-4adf-875b-0ca7fca12e11)
+![02f646e8-dd00-447b-b95b-717ef1c3518c](https://github.com/Vigneshk5/SociaLite/assets/97999742/7410d5e2-c23a-4065-b136-f362776a28c2)
 
 
 ## Get Started
@@ -96,5 +98,14 @@ Welcome to Socialite, a social media platform designed to connect people within 
 7. **Access Socialite**:
    Open your web browser and navigate to `http://localhost:3000` to access the Socialite platform locally.
 
-8. **Sign Up and Enjoy!**:
+## Team
+- [Ben](https://github.com/benwithoutF)
+- [Aarya](https://github.com/aaryaashoka)
+- [Vineeth](https://github.com/vineethkh10)
+- [Vignesh](https://github.com/vigneshk5)
+
+
+
+
+9. **Sign Up and Enjoy!**:
    Sign up using your organization's email address and start using Socialite to connect with your colleagues, share updates, and engage in meaningful conversations.
